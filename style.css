@@ -199,7 +199,8 @@ nav a:hover {
 
 .btn-primary i {
   color: white;
-  font-size: 16px;
+  font-size: 24px;
+  transition: all 0.3s ease;
 }
 
 .btn-showreel {
